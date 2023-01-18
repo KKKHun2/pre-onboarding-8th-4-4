@@ -169,6 +169,19 @@ https://magical-drink.surge.sh/
 ## 📁폴더구조
 
 ```
+src
+ ┣ api
+ ┃ ┗ comments.tsx
+ ┣ components
+ ┃ ┣ CommentForm.tsx
+ ┃ ┣ CommentList.tsx
+ ┃ ┗ Paginations.tsx
+ ┣ store
+ ┃ ┗ store.ts
+ ┣ styles
+ ┃ ┗ GlobalStyle.ts
+ ┣ App.tsx
+ ┗ index.tsx
 
 
 ```
